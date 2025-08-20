@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Nia Docs School Management Dashboard
 
 ## Getting Started
 
